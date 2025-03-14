@@ -8,6 +8,7 @@ Allez sur GitHub :
 Ouvrez votre navigateur et accédez à GitHub.
 Si vous n'avez pas encore de compte, créez-en un.
 Créer un nouveau dépôt :
+![bouton](images/images.png)
 
 Cliquez sur le bouton vert "New" dans la barre latérale gauche de la page d'accueil ou allez directement sur nouveau dépôt.
 Remplissez les informations du dépôt :
@@ -58,6 +59,4 @@ git push origin main
 Vous pouvez créer des branches pour travailler sur des fonctionnalités spécifiques sans affecter la branche principale (main ou master).
 N'oubliez pas de faire des commits fréquents pour conserver un historique clair de votre travail.
 Cela vous permet d'interagir avec GitHub depuis votre machine locale, de créer un dépôt, d'y ajouter des fichiers, puis de pousser vos modifications vers le cloud.
-
-
 
